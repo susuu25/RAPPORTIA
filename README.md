@@ -1,12 +1,6 @@
 # RAPPORTIA
 repositório TCC do curso de programação de jogos digitais
-Sumário
-Home
-GDD Template
-Objetivo
-Para quem é destinado
-Estrutura do Documento
-Como Utilizar
+Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura do Documento - Como Utilizar
 
 <h3>Sumário</h3>
 
