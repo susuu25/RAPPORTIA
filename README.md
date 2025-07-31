@@ -7,56 +7,84 @@ Objetivo
 Para quem é destinado
 Estrutura do Documento
 Como Utilizar
-Sumário
-1. Informações Gerais
-1. Informações Gerais
-1.1. Título do Jogo
-1.2. Plataforma
-1.3. Gênero
-1.4. Público-Alvo
-1.5. Visão Geral do Jogo
-2. Mecânicas de Jogo
-2.1. Regras Básicas
-2.2. Controles
-2.3. Objetivos e Metas
-2.4. Sistema de Pontuação
-2.5. Mecânicas de Interação
-2.6. Sistemas de Progressão e Recompensas
-2.7. Inteligência Artificial (IA)
-2.8. Dinâmicas de Jogo
-2.9. Economia do Jogo
-3. Narrativa
-3.1. História Principal
-3.2. Personagens
-3.3. Cenários
-3.4. Missões e Quests
-3.5. Roteiro e Diálogos
-4. Design de Níveis
-4.1. Estrutura dos Níveis
-4.2. Mapas e Layouts
-4.3. Desafios e Puzzles
-4.4. Fluxo dos Níveis
-4.5. Balanceamento de Dificuldade
-5. Arte e Estilo Visual
-5.1. Estilo Artístico
-5.2. Personagens e Animações
-5.3. Cenários e Ambientes
-5.4. Interface do Usuário (UI)
-5.5. Paleta de Cores
-6. Áudio
-6.1. Trilha Sonora
-6.2. Efeitos Sonoros
-6.3. Dublagem
-6.4. Ambiente Sonoro
-7. Progresso e Salvamento
-7.1. Sistema de Progressão
-7.2. Sistema de Salvamento
-8. Monetização
-8.1. Modelo de Negócio
-8.2. Itens Pagos
-9. Testes e Qualidade
-9.1. Testes de Jogo
-9.2. Feedback dos Jogadores
-10. Conclusão
-10.1. Sumário
-10.2. Próximos Passos
+
+<h3>Sumário</h3>
+
+<h3>1. Informações Gerais</h3>
+<p>1.1. Título do Jogo
+<p>1.2. Plataforma
+<p>1.3. Gênero
+<p>1.4. Público-Alvo
+<p>1.5. Visão Geral do Jogo
+  
+<br>
+
+<h3>2. Mecânicas de Jogo</h3>
+<p>2.1. Regras Básicas
+<p>2.2. Controles
+<p>2.3. Objetivos e Metas
+<p>2.4. Sistema de Pontuação
+<p>2.5. Mecânicas de Interação
+<p>2.6. Sistemas de Progressão e Recompensas
+<p>2.7. Inteligência Artificial (IA)
+<p>2.8. Dinâmicas de Jogo
+<p>2.9. Economia do Jogo
+  
+<br>
+
+<h3>3. Narrativa</h3>
+<p>3.1. História Principal
+<p>3.2. Personagens
+<p>3.3. Cenários
+<p>3.4. Missões e Quests
+<p>3.5. Roteiro e Diálogos
+  
+<br>
+
+<h3>4. Design de Níveis</h3>
+<p>4.1. Estrutura dos Níveis
+<p>4.2. Mapas e Layouts
+<p>4.3. Desafios e Puzzles
+<p>4.4. Fluxo dos Níveis
+<p>4.5. Balanceamento de Dificuldade
+  
+<br>
+
+<h3>5. Arte e Estilo Visual</h3>
+<p>5.1. Estilo Artístico
+<p>5.2. Personagens e Animações
+<p>5.3. Cenários e Ambientes
+<p>5.4. Interface do Usuário (UI)
+<p>5.5. Paleta de Cores
+  
+<br>
+
+<h3>6. Áudio</h3>
+<p>6.1. Trilha Sonora
+<p>6.2. Efeitos Sonoros
+<p>6.3. Dublagem
+<p>6.4. Ambiente Sonoro
+  
+<br>
+
+<h3>7. Progresso e Salvamento</h3>
+<p>7.1. Sistema de Progressão
+<p>7.2. Sistema de Salvamento
+  
+<br>
+
+<h3>8. Monetização</h3>
+<p>8.1. Modelo de Negócio
+<p>8.2. Itens Pagos
+  
+<br>
+
+<h3>9. Testes e Qualidade</h3>
+<p>9.1. Testes de Jogo
+<p>9.2. Feedback dos Jogadores
+  
+<br>
+
+<h3>10. Conclusão</h3>
+<p>10.1. Sumário
+<p>10.2. Próximos Passos
