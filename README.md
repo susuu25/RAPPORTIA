@@ -5,6 +5,7 @@ Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura d
 <h3>Sumário</h3>
 
 <h3>1. Informações Gerais</h3>
+
 <p>1.1. Título do Jogo
 <p>1.2. Plataforma
 <p>1.3. Gênero
