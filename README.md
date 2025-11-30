@@ -1,4 +1,8 @@
 # RAPPORTIA
+
+## 👥 Grupo 3 Rappportia
+- Intregrantes: Felipe Mussato Rodrigues, Hudson Araújo Barreto, Kauan de Carlo Merida, Pedro Santos Menezes de Jesus, Susana Correia Garcia, Vitória Colussi dos Santos
+
 repositório TCC do curso de programação de jogos digitais
 Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura do Documento - Como Utilizar
 
