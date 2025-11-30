@@ -9,42 +9,42 @@ Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura d
 <h3>Sumário</h3>
 
 ### [1. Informações Gerais](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informações-gerais)
- [1.1. Título do Jogo](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#11-t%C3%ADtulo-do-jogo)
- [1.2. Plataforma](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#12-plataforma)
- [1.3. Gênero](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#13-g%C3%AAnero)
- [1.4. Público-Alvo](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#14-p%C3%BAblico-alvo)
- [1.5. Visão Geral do Jogo](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#15-vis%C3%A3o-geral-do-jogo)
+- [1.1. Título do Jogo](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#11-t%C3%ADtulo-do-jogo)
+- [1.2. Plataforma](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#12-plataforma)
+- [1.3. Gênero](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#13-g%C3%AAnero)
+- [1.4. Público-Alvo](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#14-p%C3%BAblico-alvo)
+- [1.5. Visão Geral do Jogo](https://github.com/susuu25/RAPPORTIA/wiki/1.-Informa%C3%A7%C3%B5es-gerais#15-vis%C3%A3o-geral-do-jogo)
   
 <br>
 
 ### [2. Mecânicas de Jogo](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mecânicas-de-Jogo)
-[2.1. Regras Básicas](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#21-regras-b%C3%A1sicas)
-[2.2. Controles](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#22-controles)
-[2.3. Objetivos e Metas](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#23-objetivos-e-metas)
-[2.4. Sistema de Pontuação](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#24-sistema-de-pontua%C3%A7%C3%A3o)
-[2.5. Mecânicas de Interação](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#25-mec%C3%A2nicas-de-intera%C3%A7%C3%A3o)
-[2.6. Sistemas de Progressão e Recompensas](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#26-sistemas-de-progress%C3%A3o-e-recompensas)
-[2.7. Inteligência Artificial (IA)](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#27-intelig%C3%AAncia-artificial-ia-)
-[2.8. Dinâmicas de Jogo](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#28-din%C3%A2micas-de-jogo)
-[2.9. Economia do Jogo](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#29-economia-do-jogo)
+- [2.1. Regras Básicas](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#21-regras-b%C3%A1sicas)
+- [2.2. Controles](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#22-controles)
+- [2.3. Objetivos e Metas](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#23-objetivos-e-metas)
+- [2.4. Sistema de Pontuação](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#24-sistema-de-pontua%C3%A7%C3%A3o)
+- [2.5. Mecânicas de Interação](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#25-mec%C3%A2nicas-de-intera%C3%A7%C3%A3o)
+- [2.6. Sistemas de Progressão e Recompensas](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#26-sistemas-de-progress%C3%A3o-e-recompensas)
+- [2.7. Inteligência Artificial (IA)](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#27-intelig%C3%AAncia-artificial-ia-)
+- [2.8. Dinâmicas de Jogo](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#28-din%C3%A2micas-de-jogo)
+- [2.9. Economia do Jogo](https://github.com/susuu25/RAPPORTIA/wiki/2.-Mec%C3%A2nicas-de-Jogo#29-economia-do-jogo)
   
 <br>
 
-<h3>3. Narrativa</h3>
-<p>3.1. História Principal
-<p>3.2. Personagens
-<p>3.3. Cenários
-<p>3.4. Missões e Quests
-<p>3.5. Roteiro e Diálogos
+### [3. Narrativa](https://github.com/susuu25/RAPPORTIA/wiki/3.-Narrativa)
+- [3.1. História Principal](https://github.com/susuu25/RAPPORTIA/wiki/3.-Narrativa#31-hist%C3%B3ria-principal)
+- [3.2. Personagens](https://github.com/susuu25/RAPPORTIA/wiki/3.-Narrativa#32-personagens)
+- [3.3. Cenários](https://github.com/susuu25/RAPPORTIA/wiki/3.-Narrativa#33-cen%C3%A1rios)
+- [3.4. Missões e Quests](https://github.com/susuu25/RAPPORTIA/wiki/3.-Narrativa#34-miss%C3%B5es-e-quests)
+- [3.5. Roteiro e Diálogos](https://github.com/susuu25/RAPPORTIA/wiki/3.-Narrativa#35-roteiro-e-di%C3%A1logos)
   
 <br>
 
-<h3>4. Design de Níveis</h3>
-<p>4.1. Estrutura dos Níveis
-<p>4.2. Mapas e Layouts
-<p>4.3. Desafios e Puzzles
-<p>4.4. Fluxo dos Níveis
-<p>4.5. Balanceamento de Dificuldade
+### [4. Design de Níveis](https://github.com/susuu25/RAPPORTIA/wiki/4.-Design-de-Níveis)
+- [4.1. Estrutura dos Níveis](https://github.com/susuu25/RAPPORTIA/wiki/4.-Design-de-N%C3%ADveis#41-estrutura-dos-n%C3%ADveis)
+- [4.2. Mapas e Layouts](https://github.com/susuu25/RAPPORTIA/wiki/4.-Design-de-N%C3%ADveis#42-mapas-e-layouts)
+- [4.3. Desafios e Puzzles](https://github.com/susuu25/RAPPORTIA/wiki/4.-Design-de-N%C3%ADveis#43-desafios-e-puzzles)
+- [4.4. Fluxo dos Níveis](https://github.com/susuu25/RAPPORTIA/wiki/4.-Design-de-N%C3%ADveis#44-fluxo-dos-n%C3%ADveis)
+- [4.5. Balanceamento de Dificuldade](https://github.com/susuu25/RAPPORTIA/wiki/4.-Design-de-N%C3%ADveis#45-balanceamento-de-dificuldade)
   
 <br>
 
