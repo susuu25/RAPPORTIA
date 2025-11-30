@@ -78,5 +78,5 @@ Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura d
 <br>
 
 ### [9. Conclusão](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclusão)
-- [9.1. Sumário](
-- [9.2. Próximos Passos](
+- [9.1. Sumário](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclus%C3%A3o#91-sum%C3%A1rio)
+- [9.2. Próximos Passos](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclus%C3%A3o#-92-pr%C3%B3ximos-passos)
