@@ -48,41 +48,35 @@ Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura d
   
 <br>
 
-<h3>5. Arte e Estilo Visual</h3>
-<p>5.1. Estilo Artístico
-<p>5.2. Personagens e Animações
-<p>5.3. Cenários e Ambientes
-<p>5.4. Interface do Usuário (UI)
-<p>5.5. Paleta de Cores
+### [5. Arte e Estilo Visual](https://github.com/susuu25/RAPPORTIA/wiki/5.-Arte-e-Estilo-Visual)
+- [5.1. Estilo Artístico](https://github.com/susuu25/RAPPORTIA/wiki/5.-Arte-e-Estilo-Visual#51-estilo-art%C3%ADstico)
+- [5.2. Personagens e Animações](https://github.com/susuu25/RAPPORTIA/wiki/5.-Arte-e-Estilo-Visual#52-personagens-e-anima%C3%A7%C3%B5es)
+- [5.3. Cenários e Ambientes](https://github.com/susuu25/RAPPORTIA/wiki/5.-Arte-e-Estilo-Visual#53-cen%C3%A1rios-e-ambientes)
+- [5.4. Interface do Usuário (UI)](https://github.com/susuu25/RAPPORTIA/wiki/5.-Arte-e-Estilo-Visual#54-interface-do-usu%C3%A1rio-ui)
+- [5.5. Paleta de Cores](https://github.com/susuu25/RAPPORTIA/wiki/5.-Arte-e-Estilo-Visual#55-paleta-de-cores)
   
 <br>
 
-<h3>6. Áudio</h3>
-<p>6.1. Trilha Sonora
-<p>6.2. Efeitos Sonoros
-<p>6.3. Dublagem
-<p>6.4. Ambiente Sonoro
+### [6. Áudio](https://github.com/susuu25/RAPPORTIA/wiki/6.-Áudio)
+- [6.1. Trilha Sonora](https://github.com/susuu25/RAPPORTIA/wiki/6.-%C3%81udio#61-trilha-sonora)
+- [6.2. Efeitos Sonoros](https://github.com/susuu25/RAPPORTIA/wiki/6.-%C3%81udio#62-efeitos-sonoros)
+- [6.3. Dublagem](https://github.com/susuu25/RAPPORTIA/wiki/6.-%C3%81udio#63-dublagem)
+- [6.4. Ambiente Sonoro](https://github.com/susuu25/RAPPORTIA/wiki/6.-%C3%81udio#64-ambiente-sonoro)
   
 <br>
 
-<h3>7. Progresso e Salvamento</h3>
-<p>7.1. Sistema de Progressão
-<p>7.2. Sistema de Salvamento
+### [7. Progresso e Salvamento](https://github.com/susuu25/RAPPORTIA/wiki/7.-Progresso-e-Salvamento)
+- [7.1. Sistema de Progressão](https://github.com/susuu25/RAPPORTIA/wiki/7.-Progresso-e-Salvamento#71-sistema-de-progress%C3%A3o)
+- [7.2. Sistema de Salvamento](https://github.com/susuu25/RAPPORTIA/wiki/7.-Progresso-e-Salvamento#72-sistema-de-salvamento)
   
 <br>
 
-<h3>8. Monetização</h3>
-<p>8.1. Modelo de Negócio
-<p>8.2. Itens Pagos
+### [8. Monetização](https://github.com/susuu25/RAPPORTIA/wiki/8.-Monetização)
+- [8.1. Modelo de Negócio](https://github.com/susuu25/RAPPORTIA/wiki/8.-Monetiza%C3%A7%C3%A3o#81-modelo-de-neg%C3%B3cio)
+- [8.2. Itens Pagos](https://github.com/susuu25/RAPPORTIA/wiki/8.-Monetiza%C3%A7%C3%A3o#82-itens-pagos)
   
 <br>
 
-<h3>9. Testes e Qualidade</h3>
-<p>9.1. Testes de Jogo
-<p>9.2. Feedback dos Jogadores
-  
-<br>
-
-<h3>10. Conclusão</h3>
-<p>10.1. Sumário
-<p>10.2. Próximos Passos
+### [9. Conclusão](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclusão)
+- [9.1. Sumário](
+- [9.2. Próximos Passos](
