@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.AI;
-using System.Collections; // Necessário para Corrotinas
+using System.Collections;
 
 public abstract class EnemyBase : MonoBehaviour
 {
@@ -10,6 +10,9 @@ public abstract class EnemyBase : MonoBehaviour
 
     [Header("Vida UI")]
     public healthBar barraDeVidaUI;
+
+    public Porta scriptDaPorta;
+
 
     [Header("Combate e movimento")]
     public float distanciaVisao = 15f;
@@ -128,7 +131,7 @@ public abstract class EnemyBase : MonoBehaviour
     protected abstract void ExecutarAtaque();
 
     // Vida e morte
-    public void TakeDamage(float dano)
+    public virtual void TakeDamage(float dano)
     {
         if (isDead) return;
 
@@ -143,6 +146,12 @@ public abstract class EnemyBase : MonoBehaviour
         if (isDead) return;
         isDead = true;
 
+        
+        if (scriptDaPorta != null)
+        {
+            scriptDaPorta.AbrirSaida();
+        }
+   
         StopAllCoroutines(); // Para ataques no meio
         animator.SetTrigger(triggerMorte);
 

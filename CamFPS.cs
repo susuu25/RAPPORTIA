@@ -4,12 +4,14 @@ public class CamFPS : MonoBehaviour
 {
     public Helia helia;
 
+    [Header("Referência (Crie um Empty nos olhos da Helia)")]
+    public Transform cameraPivot; // ARRASTE O "PontoCamera" AQUI
+
     [Header("Ajuste FPS")]
-    public float alturaOlhos = 2f;
-    public float distanciaNariz = 0.6f;
+    public float distanciaNariz = 0.1f; // Reduzi para escala pequena
 
     [Header("Sensibilidade")]
-    public float mouseSensitivity = 200f;
+    public float mouseSensitivity = 2.0f; // Valor menor pois removemos o DeltaTime
     public float minY = -60f;
     public float maxY = 60f;
 
@@ -22,8 +24,9 @@ public class CamFPS : MonoBehaviour
 
         transform.SetParent(null);
 
+        // Pega a rotação inicial correta
         Vector3 angles = transform.eulerAngles;
-        rotationX = 0f;
+        rotationX = angles.x;
         rotationY = angles.y;
 
         Cursor.lockState = CursorLockMode.Locked;
@@ -32,27 +35,26 @@ public class CamFPS : MonoBehaviour
 
     void LateUpdate()
     {
-        if (helia != null && helia.IsAiming())
+        if (helia != null && helia.IsAiming() && cameraPivot != null)
         {
-            float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-            float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+            float mouseX = Input.GetAxisRaw("Mouse X") * mouseSensitivity;
+            float mouseY = Input.GetAxisRaw("Mouse Y") * mouseSensitivity;
 
             rotationY += mouseX;
             rotationX -= mouseY;
             rotationX = Mathf.Clamp(rotationX, minY, maxY);
 
+            // Gira a câmera
             transform.rotation = Quaternion.Euler(rotationX, rotationY, 0f);
 
-            Vector3 posicaoPe = helia.transform.position;
+            // A rotação do corpo da Helia segue apenas o Y (horizontal) da câmera
             Quaternion rotacaoCorpo = Quaternion.Euler(0f, rotationY, 0f);
-
-            Vector3 posicaoFinal = posicaoPe
-                                 + (Vector3.up * alturaOlhos)
-                                 + (rotacaoCorpo * Vector3.forward * distanciaNariz);
-
-            transform.position = posicaoFinal;
-
             helia.transform.rotation = rotacaoCorpo;
+
+            // Posiciona a câmera baseada no Pivot físico (PontoCamera)
+            // Isso evita erros matemáticos de escala
+            Vector3 posicaoFinal = cameraPivot.position + (rotacaoCorpo * Vector3.forward * distanciaNariz);
+            transform.position = posicaoFinal;
         }
     }
 
