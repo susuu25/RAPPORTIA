@@ -80,3 +80,13 @@ Sumário - Home GDD - Template - Objetivo - Para quem é destinado - Estrutura d
 ### [9. Conclusão](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclusão)
 - [9.1. Sumário](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclus%C3%A3o#91-sum%C3%A1rio)
 - [9.2. Próximos Passos](https://github.com/susuu25/RAPPORTIA/wiki/9.--Conclus%C3%A3o#-92-pr%C3%B3ximos-passos)
+
+### [10.Códigos do jogo](https://github.com/susuu25/RAPPORTIA/wiki/10.-Códigos-do-Jogo)
+- [10.1. Agua](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#agua)
+- [10.2. AtivarUI](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#ativarui)
+- [10.3. ControleSom](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#ativarui)
+- [10.4. Fala](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#fala)
+- [10.5. MenuInicial](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#menuinicial)
+- [10.6. Pause](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#menuinicial)
+- [10.7. TrocaCena](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#trocacena)
+- [10.8. gameOver](https://github.com/susuu25/RAPPORTIA/wiki/10.-C%C3%B3digos-do-Jogo#gameover)
