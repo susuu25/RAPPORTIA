@@ -14,7 +14,7 @@ public class Morte : EnemyBase
     public float forcaTiro = 20f;
 
     [Header("Ataque: Normal (Perto)")]
-    public Collider hitboxColisor;     // ► Só o collider, não o objeto inteiro
+    public Collider hitboxColisor;  
     public float delayAtaque = 0.3f;
     public float duracaoAtaque = 0.5f;
 
@@ -109,3 +109,4 @@ public class Morte : EnemyBase
         }
     }
 }
+
