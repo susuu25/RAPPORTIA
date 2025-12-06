@@ -4,7 +4,7 @@
 - Intregrantes: Felipe Mussato Rodrigues, Hudson Araujo Barreiro, Kauan de Carlo Merida, Pedro Santos Menezes de Jesus, Susana Correia Garcia, Vitória Colussi dos Santos
 
 ## [tcc jogável](https://drive.google.com/file/d/1P1rujhL34vLyKFIvm3Dk5r_-361C1Ou8/view?usp=sharing)
-## [link do tcc](https://drive.google.com/file/d/1Qob1CUSMGUnWYuUKaP_eKg2zOCkslJZv/view?usp=sharing)
+## [tcc editável](https://drive.google.com/file/d/19Z30YmwkHOYX7QR2pzXZ_A6gS-Uy_bKF/view?usp=sharing)
   
 
 repositório TCC do curso de programação de jogos digitais
