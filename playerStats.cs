@@ -5,7 +5,7 @@ public class playerStats : MonoBehaviour
 {
     [Header("Vida")]
     [SerializeField] private float maxHealth = 100f;
-    public healthBar healthBar; // Referência ao script da barra
+    public healthBar healthBar; // ReferÃªncia ao script da barra
 
     [Header("Respawn")]
     [Tooltip("Marque para o jogador renascer ao morrer.")]
@@ -13,19 +13,19 @@ public class playerStats : MonoBehaviour
     [Tooltip("Arraste um objeto vazio onde o player deve nascer.")]
     public Transform respawnPoint;
 
-    [Header("Regeneração")]
+    [Header("RegeneraÃ§Ã£o")]
     [SerializeField] private float healRatePerSecond = 3f;
     [SerializeField] private float delayToStartHeal = 3f;
 
     [Header("Efeitos")]
     public Volume postProcessVolume;
 
-    // Referências e Variáveis Internas
+    // ReferÃªncias e VariÃ¡veis Internas
     private CharacterController character;
     private float currentHealth;
     private float timeSpentIdle = 0f;
 
-    // Propriedades Públicas
+    // Propriedades PÃºblicas
     public bool IsShieldActive { get; set; }
     public bool IsDead { get; private set; }
 
@@ -50,7 +50,7 @@ public class playerStats : MonoBehaviour
     {
         if (IsDead) return;
 
-        // Lógica do Escudo
+        // LÃ³gica do Escudo
         if (IsShieldActive)
         {
             amount *= 0.5f;
@@ -60,7 +60,7 @@ public class playerStats : MonoBehaviour
         currentHealth -= amount;
         AtualizarBarraUI();
 
-        // Reseta regeneração ao tomar dano
+        // Reseta regeneraÃ§Ã£o ao tomar dano
         timeSpentIdle = 0f;
 
         // Efeito visual de dano
@@ -93,20 +93,13 @@ public class playerStats : MonoBehaviour
             // Respawn imediato (pode colocar um delay com Invoke se preferir)
             Respawn();
         }
-        else
-        {
-            // Lógica de Game Over definitivo aqui
-            // Ex: SceneManager.LoadScene("GameOver");
-        }
     }
 
     void Respawn()
     {
-        // O PULO DO GATO: Para teleportar CharacterController, precisa desligar ele rapidinho
         if (character != null) character.enabled = false;
 
         transform.position = respawnPoint.position;
-        // Reseta a rotação se quiser: transform.rotation = respawnPoint.rotation;
 
         if (character != null) character.enabled = true;
 
@@ -129,10 +122,10 @@ public class playerStats : MonoBehaviour
         if (healthBar != null) healthBar.SetSlider(currentHealth);
     }
 
-    // --- LÓGICA DE REGENERAÇÃO ---
+
     void GerenciarRegeneracao()
     {
-        // Verifica se há input de movimento
+     
         bool isMoving = Mathf.Abs(Input.GetAxis("Horizontal")) > 0.01f ||
                         Mathf.Abs(Input.GetAxis("Vertical")) > 0.01f;
 
@@ -151,7 +144,6 @@ public class playerStats : MonoBehaviour
         }
     }
 
-    // --- EFEITOS VISUAIS ---
     public void EnableDamagePostProcess()
     {
         if (postProcessVolume != null)
@@ -166,4 +158,5 @@ public class playerStats : MonoBehaviour
     {
         if (postProcessVolume != null) postProcessVolume.weight = 0f;
     }
+
 }
