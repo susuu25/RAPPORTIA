@@ -3,7 +3,7 @@
 ## 👥 Grupo 3 Rappportia
 - Intregrantes: Felipe Mussato Rodrigues, Hudson Araujo Barreiro, Kauan de Carlo Merida, Pedro Santos Menezes de Jesus, Susana Correia Garcia, Vitória Colussi dos Santos
 
-## [link do tcc jogável](https://drive.google.com/file/d/1TM_E8QmlfsH3GtoymIb7ZQyNlbLg6Qks/view?usp=sharing)
+## [tcc jogável](https://drive.google.com/file/d/1P1rujhL34vLyKFIvm3Dk5r_-361C1Ou8/view?usp=sharing)
 ## [link do tcc](https://drive.google.com/file/d/1Qob1CUSMGUnWYuUKaP_eKg2zOCkslJZv/view?usp=sharing)
   
 
