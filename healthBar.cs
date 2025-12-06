@@ -7,13 +7,13 @@ public class healthBar : MonoBehaviour
 
     public void SetSliderMax(float amount)
     {
-        // O loop 'foreach' percorre todos os sliders que você colocou na lista
+        // O loop 'foreach' percorre todos os sliders
         foreach (Slider s in sliders)
         {
             if (s != null)
             {
                 s.maxValue = amount;
-                s.value = amount; // Começa cheio
+                s.value = amount; // ComeÃ§a cheio
             }
         }
     }
@@ -29,4 +29,5 @@ public class healthBar : MonoBehaviour
             }
         }
     }
+
 }
