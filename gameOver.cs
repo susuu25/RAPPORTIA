@@ -3,11 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class gameOver : MonoBehaviour
 {
-    [Header("Configurações")]
+    [Header("ConfiguraÃ§Ãµes")]
     public GameObject menuCanvas; 
     public playerStats player; 
 
-    // protected para o script filho (Pause) conseguir ler essa variável
+    // protected para o script filho (Pause) conseguir ler
     protected bool isMenuActive = false;
 
     protected virtual void Start()
@@ -20,12 +20,12 @@ public class gameOver : MonoBehaviour
         Cursor.visible = false;
     }
 
-    // Virtual permite o filho Pause substituir pela lógica do  ESC
+    // Virtual permite o filho Pause substituir pela lÃ³gica do  ESC
     protected virtual void Update()
     {
         if (isMenuActive) return;
 
-        // Lógicado Game Over: Verifica se morreu
+        // LÃ³gicado Game Over: Verifica se morreu
         if (player != null && player.IsDead)
         {
             ToggleMenu(true);
@@ -64,4 +64,5 @@ public class gameOver : MonoBehaviour
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
     }
+
 }
